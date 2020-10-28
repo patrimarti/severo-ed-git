@@ -1,6 +1,6 @@
 # Proyecto p03
 
-## creando subtitulo
+## GitHub
 
 ``
 Entorno de desarrollo
